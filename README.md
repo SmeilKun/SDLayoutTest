@@ -1,2 +1,2 @@
 # SDLayoutTest
-# SDLayoutTest
+第三方自动布局库SDAutoLayout的使用用例，以及3DTouch的使用demo。
